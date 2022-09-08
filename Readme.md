@@ -1,6 +1,6 @@
-<h1 align="center"> Hey there 👋, my name is Liz. <h1>
+Hey there 👋 my name is Liz. 
 
-<p align="center"> Full Stack Developer, Plant Mom, Bobarista <p>
+Full Stack Developer, Plant Mom, Bobarista
 
 - 🌱 I’m currently learning React.js and Python
 - 🌻 [My Portfolio](https://dieterichelizabeth.github.io/chakra-portfolio/) is up to date with recent projects
