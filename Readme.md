@@ -1,8 +1,6 @@
 ### Hey there 👋, my name is Liz.
 
-I'm a Full Stack Developer with a background in Anthropology, recently graduated from the UTA Web Development Bootcamp. 
-Currently, I build small tools and full stack applications using the MERN stack. 
-With every project, I like to focus how it's users will be affected by design and functionality. 
+Full Stack Developer, Plant Mom, Bobarista
 
 - 🌱 I’m currently learning React.js and Python
 - 🌻 [My Portfolio](https://dieterichelizabeth.github.io/chakra-portfolio/) is up to date with recent projects
