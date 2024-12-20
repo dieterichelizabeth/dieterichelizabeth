@@ -1,5 +1,4 @@
-Hey there 👋 my name is Liz
-- 🌱 I currently develop React applications and help maintain Wordpress sites 
-- 🌎 Lets connect on [LinkedIn](https://www.linkedin.com/in/elizabeth-dieterich-067b55a8/)
+Hey there 👋 my name is Liz 
 
-
+- 📚 I'm a graduate from UT Austin's Coding Bootcamp with 2U inc.
+- 🌱 Currently developing MERN Web Applications and helping maintain Wordpress sites for a [pretty awesome company](https://brainjar.net/) 
